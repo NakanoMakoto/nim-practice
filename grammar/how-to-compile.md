@@ -17,6 +17,8 @@ nim compile --run "file name" arg1 arg2
 nim c -r "file name"
 ```
 
+## デプロイ時のコンパイル方法
+
 リリースバージョンはこのように  
 ランタイムチェックがされず、最適化が図られる
 ```
